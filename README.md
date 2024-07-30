@@ -9,8 +9,11 @@ VS Code
 There are many types of operators in C++. some of them are:-
 
 Arithemetic operators
+
 Logical operators
+
 comparison operators
+
 Arithemetic operators include addition,subtraction,multiplication,division and modulus.
 
 Logical operators are used to determine the logic between variables or values.
