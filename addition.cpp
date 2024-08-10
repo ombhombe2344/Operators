@@ -1,5 +1,6 @@
 //om bhombe
 //23070123039
+//Aim:Implemention of Operators
 #include<iostream>
 using namespace std;
 
